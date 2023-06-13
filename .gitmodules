@@ -1,0 +1,6 @@
+[submodule "ml_module"]
+	path = ml_module
+	url = git@github.com:sungyongcho/ml_module.git
+[submodule "python_module"]
+	path = python_module
+	url = git@github.com:sungyongcho/python_module.git
